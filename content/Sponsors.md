@@ -1,5 +1,5 @@
 +++
-title= "2024 Sponsors"
+title= "2025 Sponsors"
 +++
 
 
@@ -19,7 +19,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 <col width="40%" />
 <col width="60%" />
 </colgroup>
-
+<!--
   <tbody>
  <tr>
     <td align="left" markdown="span"><img src="../img/clients/CFE_BUS_wildcat_horizontal.png" style="width:50%"></img></td>
@@ -27,9 +27,9 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
         <a href ="https://chicostart.com/">https://chicostart.com/</a></td>
   </tr>
   
-  
   <tr><td height= "50"> </td> <td></td></tr>
- 
+  -->
+  <!--
  <tr>
     <td align="left" markdown="span"><img src="../img/clients/cs_logo_stacked.png" style="width:40%"></img></td>
     <td>ChicoSTART is an Accelerated by California Innovation Hub representing 20+ counties in the North State. We support and enrich Northern California’s entrepreneurial & tech ecosystem by providing startups the resources they need to start, grow and thrive. 
@@ -37,7 +37,8 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   </tr>
   
   <tr><td height= "50"> </td> <td></td></tr>
-
+-->
+<!--
   <tr>
     <td align="left" markdown="span"><img src="../img/clients/gt_logo_stacked.png" style="width:40%"></img></td>
     <td> GrowTECH: Together we grow, support, and connect the thriving tech and entrepreneurial hub in Chico and Northern California.
@@ -46,11 +47,13 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   
 
   <tr><td height= "50"> </td> <td></td></tr>
+-->
+
 
   <tr>
     <td align="left" markdown="span"><img src="../img/clients/sap" style="width:40%"></img></td>
     <td> The SAP University Competence Center (UCC) at California State University, Chico is one of only five UCCs throughout the world. The center provides hosting services and technical support to universities that participate in SAP’s University Alliance.
-        <a href ="https://sap.cob.csuchico.edu/">[https://growtech.io/](https://sap.cob.csuchico.edu/)</a></td>
+        <a href ="https://sap.cob.csuchico.edu/">[UCC Chico](https://sap.cob.csuchico.edu/)</a></td>
   </tr>
   
   </tbody>
@@ -63,10 +66,15 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
 <colgroup>
 <col width="40%" />
 <col width="60%" />
-</colgroup>
-
+</colgroup
   <tbody>
-    <tr>
+  
+  <tr>
+  
+  
+  </tr>
+  
+  <tr>
     <td><img src="../img/clients/DSI_Logo_Horizontal_Small.jpg" style="width:60%"></img></td>
     <td> The Data Science Initiative at Chico State aims to be a hub of DS information and resources for campus and community. Our vision is to foster a data-empowered society working within a culture of open science. See more at <a href="https://www.csuchico.edu/datascience">https://www.csuchico.edu/datascience</a>. </td>
   </tr>
@@ -75,7 +83,7 @@ Please see our [fundraising](../fundraising/) page for information on how you ca
   
   <tr>
     <td><img src="../img/clients/dsclub.png" style="width:40%"></img></td>
-    <td> The Data Science Club at Chico State is open to all students who are interested in data science. See them at https://dsclub.carrd.co/ </td>
+    <td> The Data Science Club at Chico State is open to all students who are interested in data science. [Join the discord!](https://discord.com/invite/cgEHq5FMyY) </td>
   </tr>
 
   <tr><td height= "50"> </td> <td></td></tr>
